@@ -1,7 +1,7 @@
 ### Hi there, I'm Joshua - aka [NerdyTechGamer][website] 👋
 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute to Open Source projects and continue learking on [HackerRank.com][hackerrank]
+- 🥅 2020 Goals: Contribute to Open Source projects and continue learning on [HackerRank.com][hackerrank]
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
@@ -46,3 +46,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[hackerrank]:https://hackerrank.com/aimsopp83
