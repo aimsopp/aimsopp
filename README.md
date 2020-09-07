@@ -1,4 +1,4 @@
-### Hi there, I'm Joshua - aka [NerdyTechGamer][website] 👋
+### Hi there, I'm Joshua - aka [NerdyTechGamer][website] Website still under construction👋
 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute to Open Source projects and continue learning on [HackerRank.com][hackerrank]
