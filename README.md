@@ -41,8 +41,4 @@
 [website]: https://github.com/aimsopp
 [instagram]: https://instagram.com/aimsopp
 [linkedin]: https://www.linkedin.com/in/joshua-lyons-ab088050/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]:
 [hackerrank]:https://hackerrank.com/aimsopp83
