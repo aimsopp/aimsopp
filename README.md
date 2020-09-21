@@ -1,4 +1,4 @@
-### Hi there, I'm Joshua - aka [NerdyTechGamer][website] Website still under construction👋
+### Hi there, I'm Joshua - aka [NerdyTechGamer][website] 👋
 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute to Open Source projects and continue learning on [HackerRank][hackerrank]
@@ -38,7 +38,7 @@
 
 </details>
 
-[website]: https://github.com/aimsopp
+[website]: http://www.nerdytechgamer.com
 [instagram]: https://instagram.com/aimsopp
 [linkedin]: https://www.linkedin.com/in/joshua-lyons-ab088050/
 [webdevplaylist]:https://github.com/aimsopp
