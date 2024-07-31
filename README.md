@@ -1,8 +1,8 @@
-### Hi there, I'm Joshua - aka [NerdyTechGamer][website] 👋
+### Hi there, I'm Joshua 👋
 
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Continue learning on [HackerRank][hackerrank]
-- ⚡ Fun fact: I love to draw and play guitar
+- 👯 
+- 🥅 
+- ⚡ 
 
 ### Connect with me:
 
